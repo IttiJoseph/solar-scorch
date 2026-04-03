@@ -2,7 +2,8 @@
 
 An interactive demo where a magnifying glass focuses sunlight onto a paragraph of text, scorching the paper and causing characters to detach as rising ember particles while the remaining text reflows in real time.
 
-![Solar Scorch Demo](https://img.shields.io/badge/demo-interactive-orange)
+![Glass2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8e286141-c12d-49b1-8eae-e81e00584c27)
+
 
 ## How it works
 
